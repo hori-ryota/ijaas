@@ -35,6 +35,6 @@ dependencies {
 }
 
 intellij {
-  version 'IC-2017.1.5'
+  version 'IC-2017.2.5'
 }
 version '0.1'
